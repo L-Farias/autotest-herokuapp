@@ -1,0 +1,12 @@
+{
+  "login": {
+    "username": "tomsmith",
+    "validPassword": "SuperSecretPassword!",
+    "invalidPassword": "senha-invalida"
+  },
+  "files": {
+    "uploadName": "automation-upload.txt",
+    "uploadContent": "Arquivo enviado pelo teste automatizado.",
+    "downloadName": "some-file.txt"
+  }
+}
